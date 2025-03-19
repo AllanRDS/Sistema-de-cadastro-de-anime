@@ -37,3 +37,26 @@ Este projeto é uma API RESTful para gerenciamento de animes, permitindo operaç
  ├── 📜 README.md          
  ├── 📜 pom.xml            
  ├── 📜 .gitignore  
+
+ ## 🔄 Endpoints da API
+
+| Método  | Endpoint       | Descrição                     |
+|---------|--------------|--------------------------------|
+| **POST**   | `/animes`      | Criar um novo anime       |
+| **GET**    | `/animes`      | Listar todos os animes     |
+| **GET**    | `/animes/{id}` | Buscar um anime pelo ID    |
+| **PUT**    | `/animes/{id}` | Atualizar um produto        |
+| **DELETE** | `/animes/{id}` | Deletar um produto         |
+
+## 🧪 Testes
+
+Para rodar os testes unitários, execute o seguinte comando:
+
+``` properties
+mvn test
+```
+
+Os testes unitários são implementados com JUnit 5 e Mockito.
+
+## 📚 Documentação
+
