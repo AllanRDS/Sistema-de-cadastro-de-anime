@@ -1,4 +1,4 @@
-package br.com.ichibei.product;
+package br.com.allanrds.product;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
