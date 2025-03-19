@@ -20,9 +20,9 @@ import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
 
-import br.com.allanrds.product.entity.Anime;; // Altere a importação para a nova entidade Anime
-import br.com.allanrds.product.repository.AnimeRepository;; // Altere a importação para o novo repositório AnimeRepository
-import br.com.allanrds.product.AnimeService;;; // Altere a importação para o novo serviço AnimeService
+import br.com.allanrds.product.entity.Anime;
+import br.com.allanrds.product.repository.AnimeRepository;
+import br.com.allanrds.product.AnimeService;;
 
 public class AnimeServiceTest {
 
