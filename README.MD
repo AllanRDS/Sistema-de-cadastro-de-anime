@@ -37,6 +37,7 @@ Este projeto é uma API RESTful para gerenciamento de animes, permitindo operaç
  ├── 📜 README.md          
  ├── 📜 pom.xml            
  ├── 📜 .gitignore  
+```
 
  ## 🔄 Endpoints da API
 
