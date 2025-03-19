@@ -32,7 +32,7 @@ Este projeto é uma API RESTful para gerenciamento de animes, permitindo operaç
  │   │   │   ├── 📜 AnimeApplicationTests.java    
  │   │   │   ├── 📜 AnimeServiceTest.java  
  │   ├── 📂 docs
- │   │   │   ├── 📜 documentacao.pdf 
+ │   │   │   ├── 📜 ApiAnimes.pdf 
  ├── 📜 application.properties
  ├── 📜 README.md          
  ├── 📜 pom.xml            
@@ -61,3 +61,4 @@ Os testes unitários são implementados com JUnit 5 e Mockito.
 
 ## 📚 Documentação
 
+[Estrutura do Projeto no notion - PDF](docs/ApiAnimes.pdf)
