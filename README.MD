@@ -61,4 +61,4 @@ Os testes unitários são implementados com JUnit 5 e Mockito.
 
 ## 📚 Documentação
 
-[Estrutura do Projeto no notion - PDF](docs/ApiAnimes.pdf)
+[Estrutura do Api de Animes - PDF](docs/ApiAnimes.pdf)
